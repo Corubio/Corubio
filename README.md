@@ -1,7 +1,9 @@
-# 💫 About Me:
-🔭Currently working on development of Clean<br>👀Looking to learn and gain new experiences<br>🌱Working for a more sustainable planet
+## 💻 About Me:
+🔭Looking to learn and gain new experiences<br>
+🌱 Interested in a more sustainable planet, everything related to cooking and technology.
 
-# 💻 Tech Stack:
+
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
