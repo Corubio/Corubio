@@ -1,4 +1,4 @@
-## 💻 About Me:
+## 📎 About Me:
 🔭Looking to learn and gain new experiences<br>
 🌱 Interested in a more sustainable planet, everything related to cooking and technology.
 
